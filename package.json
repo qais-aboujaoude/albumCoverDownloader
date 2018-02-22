@@ -1,0 +1,23 @@
+{
+  "name": "albumcoverdownloader",
+  "version": "1.0.0",
+  "description": "Download high quality album art for any album or artist you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "album",
+    "covers",
+    "music",
+    "art",
+    "album",
+    "art"
+  ],
+  "author": "qais aboujaoude <q.i.aboujaoude@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "image-downloader": "^3.3.0"
+  }
+}
